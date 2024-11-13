@@ -15,7 +15,7 @@ async function Page() {
 				<div
 					className='w-full bg-blue-500 text-white flex  justify-center items-center text-2xl my-20 p-10'
 					key={items.is}>
-					{items.title} <div>_</div>
+					{items.title}
 				</div>
 			))}
 		</div>
